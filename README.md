@@ -5,6 +5,7 @@
 
 ##  AIバーチャル試着【優秀賞】
 　私のチームでは，AIによるバーチャル試着アプリケーションをiOS向けと店頭ディスプレイ向けに制作し，iOSの方が優秀賞を受賞した．私自身は後述するPF-AFNをエッジ上で推論できるように実装を担当した．
+- スライド: https://www.slideshare.net/KenichiroSato6/inten-ai
 
 ![demo](https://user-images.githubusercontent.com/33245796/124546437-9b177100-de65-11eb-8c34-3e0240310968.gif)
 
